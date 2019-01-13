@@ -231,7 +231,6 @@
         if (clockOff == true) {
         timer();
         clockOff = false;
-        console.log(event.target);
         }
       }
     });
