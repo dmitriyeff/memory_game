@@ -11,7 +11,7 @@ Each turn:
 - If the cards do not match, both cards are flipped face down.
 - The game ends once all cards have been correctly matched.
 # How to play the game
-To play the game you need to upload following files on your computer's hard drive:
+To play the game you need to upload the following files to your computer's hard drive:
 
 - index.html
 - folder with js file
