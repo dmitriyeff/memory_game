@@ -10,6 +10,7 @@ Each turn:
 - If the cards match, both cards stay flipped over.
 - If the cards do not match, both cards are flipped face down.
 - The game ends once all cards have been correctly matched.
+- When all cards have been correctly matched shows up a POP UP with the game stats. Pop up comes with the quastion if the user wants to play again. 
 # How to play the game
 To play the game you need to upload the following files to your computer's hard drive:
 
