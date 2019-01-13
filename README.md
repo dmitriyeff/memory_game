@@ -10,4 +10,12 @@ Each turn:
 - If the cards match, both cards stay flipped over.
 - If the cards do not match, both cards are flipped face down.
 - The game ends once all cards have been correctly matched.
+# How to play the game
+To play the game you need to upload following files on your computer's hard drive:
 
+- index.html
+- folder with js file
+- folder with css file
+- img folder with images
+
+When you have uploaded the needed files open **index.html** through your web browser.
