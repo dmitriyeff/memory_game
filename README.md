@@ -1,4 +1,5 @@
-# How the Memory game works
+# Memory Game
+## How the Memory game works
 The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with different symbols on one side. The cards are arranged randomly on the grid with the symbol face down. The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match!
 
 Each turn:
@@ -9,7 +10,7 @@ Each turn:
 - If the cards do not match, both cards are flipped face down.
 - The game ends once all cards have been correctly matched.
 - When all cards have been correctly matched shows up a POP UP with the game stats. Pop up comes with the quastion if the user wants to play again. 
-# How to play the game
+## How to play the game
 To play the game you need to upload the following files to your computer's hard drive:
 
 - index.html
